@@ -1,0 +1,16 @@
+{
+  "devDependencies": {
+    "@babel/plugin-transform-modules-commonjs": "^7.19.6",
+    "@npmcli/eslint-config": "^4.0.0",
+    "@types/debug": "^4.1.7",
+    "@types/node": "^18.11.7",
+    "eslint": "^8.26.0",
+    "eslint-config-standard": "^17.0.0",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-n": "^15.4.0",
+    "eslint-plugin-promise": "^6.1.1"
+  },
+  "dependencies": {
+    "@npmcli/run-script": "^5.0.1"
+  }
+}

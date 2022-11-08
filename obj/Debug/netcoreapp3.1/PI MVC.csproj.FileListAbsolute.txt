@@ -1,0 +1,149 @@
+C:\Users\silma\Desktop\PI MVC\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\silma\Desktop\PI MVC\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\silma\Desktop\PI MVC\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\silma\Desktop\PI MVC\bin\Debug\netcoreapp3.1\PI MVC.exe
+C:\Users\silma\Desktop\PI MVC\bin\Debug\netcoreapp3.1\PI MVC.deps.json
+C:\Users\silma\Desktop\PI MVC\bin\Debug\netcoreapp3.1\PI MVC.runtimeconfig.json
+C:\Users\silma\Desktop\PI MVC\bin\Debug\netcoreapp3.1\PI MVC.runtimeconfig.dev.json
+C:\Users\silma\Desktop\PI MVC\bin\Debug\netcoreapp3.1\PI MVC.dll
+C:\Users\silma\Desktop\PI MVC\bin\Debug\netcoreapp3.1\PI MVC.pdb
+C:\Users\silma\Desktop\PI MVC\bin\Debug\netcoreapp3.1\PI MVC.Views.dll
+C:\Users\silma\Desktop\PI MVC\bin\Debug\netcoreapp3.1\PI MVC.Views.pdb
+C:\Users\silma\Desktop\PI MVC\obj\Debug\netcoreapp3.1\PI MVC.csprojAssemblyReference.cache
+C:\Users\silma\Desktop\PI MVC\obj\Debug\netcoreapp3.1\PI MVC.AssemblyInfoInputs.cache
+C:\Users\silma\Desktop\PI MVC\obj\Debug\netcoreapp3.1\PI MVC.AssemblyInfo.cs
+C:\Users\silma\Desktop\PI MVC\obj\Debug\netcoreapp3.1\PI MVC.csproj.CoreCompileInputs.cache
+C:\Users\silma\Desktop\PI MVC\obj\Debug\netcoreapp3.1\PI MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\silma\Desktop\PI MVC\obj\Debug\netcoreapp3.1\PI MVC.RazorAssemblyInfo.cache
+C:\Users\silma\Desktop\PI MVC\obj\Debug\netcoreapp3.1\PI MVC.RazorAssemblyInfo.cs
+C:\Users\silma\Desktop\PI MVC\obj\Debug\netcoreapp3.1\PI MVC.TagHelpers.input.cache
+C:\Users\silma\Desktop\PI MVC\obj\Debug\netcoreapp3.1\PI MVC.TagHelpers.output.cache
+C:\Users\silma\Desktop\PI MVC\obj\Debug\netcoreapp3.1\PI MVC.RazorCoreGenerate.cache
+C:\Users\silma\Desktop\PI MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Galeria.cshtml.g.cs
+C:\Users\silma\Desktop\PI MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\silma\Desktop\PI MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Início_Site.cshtml.g.cs
+C:\Users\silma\Desktop\PI MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Portfólio.cshtml.g.cs
+C:\Users\silma\Desktop\PI MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Sucesso.cshtml.g.cs
+C:\Users\silma\Desktop\PI MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\silma\Desktop\PI MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\silma\Desktop\PI MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\silma\Desktop\PI MVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\silma\Desktop\PI MVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\silma\Desktop\PI MVC\obj\Debug\netcoreapp3.1\PI MVC.RazorTargetAssemblyInfo.cache
+C:\Users\silma\Desktop\PI MVC\obj\Debug\netcoreapp3.1\PI MVC.RazorTargetAssemblyInfo.cs
+C:\Users\silma\Desktop\PI MVC\obj\Debug\netcoreapp3.1\PI MVC.Views.pdb
+C:\Users\silma\Desktop\PI MVC\obj\Debug\netcoreapp3.1\staticwebassets\PI MVC.StaticWebAssets.Manifest.cache
+C:\Users\silma\Desktop\PI MVC\obj\Debug\netcoreapp3.1\staticwebassets\PI MVC.StaticWebAssets.xml
+C:\Users\silma\Desktop\PI MVC\obj\Debug\netcoreapp3.1\PI MVC.dll
+C:\Users\silma\Desktop\PI MVC\obj\Debug\netcoreapp3.1\PI MVC.pdb
+C:\Users\silma\Desktop\PI MVC\obj\Debug\netcoreapp3.1\PI MVC.genruntimeconfig.cache
+C:\Users\silma\Desktop\PI MVC\obj\Debug\netcoreapp3.1\PI MVC.csproj.CopyComplete
+C:\Users\silma\Desktop\PI MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Cadastro.cshtml.g.cs
+C:\Users\silma\Desktop\PI MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Fale.cshtml.g.cs
+C:\Users\silma\Desktop\PI MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
+C:\Users\silma\Desktop\PI MVC\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\silma\Desktop\PI MVC\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\silma\Desktop\PI etapa 4 MVC\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\silma\Desktop\PI etapa 4 MVC\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\silma\Desktop\PI etapa 4 MVC\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\silma\Desktop\PI etapa 4 MVC\bin\Debug\netcoreapp3.1\PI MVC.exe
+C:\Users\silma\Desktop\PI etapa 4 MVC\bin\Debug\netcoreapp3.1\PI MVC.deps.json
+C:\Users\silma\Desktop\PI etapa 4 MVC\bin\Debug\netcoreapp3.1\PI MVC.runtimeconfig.json
+C:\Users\silma\Desktop\PI etapa 4 MVC\bin\Debug\netcoreapp3.1\PI MVC.runtimeconfig.dev.json
+C:\Users\silma\Desktop\PI etapa 4 MVC\bin\Debug\netcoreapp3.1\PI MVC.dll
+C:\Users\silma\Desktop\PI etapa 4 MVC\bin\Debug\netcoreapp3.1\PI MVC.pdb
+C:\Users\silma\Desktop\PI etapa 4 MVC\bin\Debug\netcoreapp3.1\PI MVC.Views.dll
+C:\Users\silma\Desktop\PI etapa 4 MVC\bin\Debug\netcoreapp3.1\PI MVC.Views.pdb
+C:\Users\silma\Desktop\PI etapa 4 MVC\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\silma\Desktop\PI etapa 4 MVC\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\silma\Desktop\PI etapa 4 MVC\obj\Debug\netcoreapp3.1\PI MVC.csprojAssemblyReference.cache
+C:\Users\silma\Desktop\PI etapa 4 MVC\obj\Debug\netcoreapp3.1\PI MVC.AssemblyInfoInputs.cache
+C:\Users\silma\Desktop\PI etapa 4 MVC\obj\Debug\netcoreapp3.1\PI MVC.AssemblyInfo.cs
+C:\Users\silma\Desktop\PI etapa 4 MVC\obj\Debug\netcoreapp3.1\PI MVC.csproj.CoreCompileInputs.cache
+C:\Users\silma\Desktop\PI etapa 4 MVC\obj\Debug\netcoreapp3.1\PI MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\silma\Desktop\PI etapa 4 MVC\obj\Debug\netcoreapp3.1\PI MVC.RazorAssemblyInfo.cache
+C:\Users\silma\Desktop\PI etapa 4 MVC\obj\Debug\netcoreapp3.1\PI MVC.RazorAssemblyInfo.cs
+C:\Users\silma\Desktop\PI etapa 4 MVC\obj\Debug\netcoreapp3.1\PI MVC.TagHelpers.input.cache
+C:\Users\silma\Desktop\PI etapa 4 MVC\obj\Debug\netcoreapp3.1\PI MVC.TagHelpers.output.cache
+C:\Users\silma\Desktop\PI etapa 4 MVC\obj\Debug\netcoreapp3.1\PI MVC.RazorCoreGenerate.cache
+C:\Users\silma\Desktop\PI etapa 4 MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Cadastro.cshtml.g.cs
+C:\Users\silma\Desktop\PI etapa 4 MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Fale.cshtml.g.cs
+C:\Users\silma\Desktop\PI etapa 4 MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Galeria.cshtml.g.cs
+C:\Users\silma\Desktop\PI etapa 4 MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\silma\Desktop\PI etapa 4 MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Início_Site.cshtml.g.cs
+C:\Users\silma\Desktop\PI etapa 4 MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
+C:\Users\silma\Desktop\PI etapa 4 MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Portfólio.cshtml.g.cs
+C:\Users\silma\Desktop\PI etapa 4 MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Sucesso.cshtml.g.cs
+C:\Users\silma\Desktop\PI etapa 4 MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\silma\Desktop\PI etapa 4 MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\silma\Desktop\PI etapa 4 MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\silma\Desktop\PI etapa 4 MVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\silma\Desktop\PI etapa 4 MVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\silma\Desktop\PI etapa 4 MVC\obj\Debug\netcoreapp3.1\PI MVC.RazorTargetAssemblyInfo.cache
+C:\Users\silma\Desktop\PI etapa 4 MVC\obj\Debug\netcoreapp3.1\PI MVC.RazorTargetAssemblyInfo.cs
+C:\Users\silma\Desktop\PI etapa 4 MVC\obj\Debug\netcoreapp3.1\PI MVC.Views.pdb
+C:\Users\silma\Desktop\PI etapa 4 MVC\obj\Debug\netcoreapp3.1\PI MVC.csproj.CopyComplete
+C:\Users\silma\Desktop\PI etapa 4 MVC\obj\Debug\netcoreapp3.1\staticwebassets\PI MVC.StaticWebAssets.Manifest.cache
+C:\Users\silma\Desktop\PI etapa 4 MVC\obj\Debug\netcoreapp3.1\staticwebassets\PI MVC.StaticWebAssets.xml
+C:\Users\silma\Desktop\PI etapa 4 MVC\obj\Debug\netcoreapp3.1\PI MVC.dll
+C:\Users\silma\Desktop\PI etapa 4 MVC\obj\Debug\netcoreapp3.1\PI MVC.pdb
+C:\Users\silma\Desktop\PI etapa 4 MVC\obj\Debug\netcoreapp3.1\PI MVC.genruntimeconfig.cache
+C:\Users\silma\Desktop\PI etapa 5 MVC\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\silma\Desktop\PI etapa 5 MVC\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\silma\Desktop\PI etapa 5 MVC\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\silma\Desktop\PI etapa 5 MVC\bin\Debug\netcoreapp3.1\package-lock.json
+C:\Users\silma\Desktop\PI etapa 5 MVC\bin\Debug\netcoreapp3.1\package.json
+C:\Users\silma\Desktop\PI etapa 5 MVC\bin\Debug\netcoreapp3.1\PI MVC.exe
+C:\Users\silma\Desktop\PI etapa 5 MVC\bin\Debug\netcoreapp3.1\PI MVC.deps.json
+C:\Users\silma\Desktop\PI etapa 5 MVC\bin\Debug\netcoreapp3.1\PI MVC.runtimeconfig.json
+C:\Users\silma\Desktop\PI etapa 5 MVC\bin\Debug\netcoreapp3.1\PI MVC.runtimeconfig.dev.json
+C:\Users\silma\Desktop\PI etapa 5 MVC\bin\Debug\netcoreapp3.1\PI MVC.dll
+C:\Users\silma\Desktop\PI etapa 5 MVC\bin\Debug\netcoreapp3.1\PI MVC.pdb
+C:\Users\silma\Desktop\PI etapa 5 MVC\bin\Debug\netcoreapp3.1\PI MVC.Views.dll
+C:\Users\silma\Desktop\PI etapa 5 MVC\bin\Debug\netcoreapp3.1\PI MVC.Views.pdb
+C:\Users\silma\Desktop\PI etapa 5 MVC\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\silma\Desktop\PI etapa 5 MVC\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\silma\Desktop\PI etapa 5 MVC\obj\Debug\netcoreapp3.1\PI MVC.csprojAssemblyReference.cache
+C:\Users\silma\Desktop\PI etapa 5 MVC\obj\Debug\netcoreapp3.1\PI MVC.AssemblyInfoInputs.cache
+C:\Users\silma\Desktop\PI etapa 5 MVC\obj\Debug\netcoreapp3.1\PI MVC.AssemblyInfo.cs
+C:\Users\silma\Desktop\PI etapa 5 MVC\obj\Debug\netcoreapp3.1\PI MVC.csproj.CoreCompileInputs.cache
+C:\Users\silma\Desktop\PI etapa 5 MVC\obj\Debug\netcoreapp3.1\PI MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\silma\Desktop\PI etapa 5 MVC\obj\Debug\netcoreapp3.1\PI MVC.RazorAssemblyInfo.cache
+C:\Users\silma\Desktop\PI etapa 5 MVC\obj\Debug\netcoreapp3.1\PI MVC.RazorAssemblyInfo.cs
+C:\Users\silma\Desktop\PI etapa 5 MVC\obj\Debug\netcoreapp3.1\PI MVC.TagHelpers.input.cache
+C:\Users\silma\Desktop\PI etapa 5 MVC\obj\Debug\netcoreapp3.1\PI MVC.TagHelpers.output.cache
+C:\Users\silma\Desktop\PI etapa 5 MVC\obj\Debug\netcoreapp3.1\PI MVC.RazorCoreGenerate.cache
+C:\Users\silma\Desktop\PI etapa 5 MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Cadastro.cshtml.g.cs
+C:\Users\silma\Desktop\PI etapa 5 MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Fale.cshtml.g.cs
+C:\Users\silma\Desktop\PI etapa 5 MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Galeria.cshtml.g.cs
+C:\Users\silma\Desktop\PI etapa 5 MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\silma\Desktop\PI etapa 5 MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Início_Site.cshtml.g.cs
+C:\Users\silma\Desktop\PI etapa 5 MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
+C:\Users\silma\Desktop\PI etapa 5 MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Portfólio.cshtml.g.cs
+C:\Users\silma\Desktop\PI etapa 5 MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Sucesso.cshtml.g.cs
+C:\Users\silma\Desktop\PI etapa 5 MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\silma\Desktop\PI etapa 5 MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\silma\Desktop\PI etapa 5 MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\silma\Desktop\PI etapa 5 MVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\silma\Desktop\PI etapa 5 MVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\silma\Desktop\PI etapa 5 MVC\obj\Debug\netcoreapp3.1\PI MVC.RazorTargetAssemblyInfo.cache
+C:\Users\silma\Desktop\PI etapa 5 MVC\obj\Debug\netcoreapp3.1\PI MVC.RazorTargetAssemblyInfo.cs
+C:\Users\silma\Desktop\PI etapa 5 MVC\obj\Debug\netcoreapp3.1\PI MVC.Views.pdb
+C:\Users\silma\Desktop\PI etapa 5 MVC\obj\Debug\netcoreapp3.1\PI MVC.csproj.CopyComplete
+C:\Users\silma\Desktop\PI etapa 5 MVC\obj\Debug\netcoreapp3.1\staticwebassets\PI MVC.StaticWebAssets.Manifest.cache
+C:\Users\silma\Desktop\PI etapa 5 MVC\obj\Debug\netcoreapp3.1\staticwebassets\PI MVC.StaticWebAssets.xml
+C:\Users\silma\Desktop\PI etapa 5 MVC\obj\Debug\netcoreapp3.1\PI MVC.dll
+C:\Users\silma\Desktop\PI etapa 5 MVC\obj\Debug\netcoreapp3.1\PI MVC.pdb
+C:\Users\silma\Desktop\PI etapa 5 MVC\obj\Debug\netcoreapp3.1\PI MVC.genruntimeconfig.cache
+C:\Users\silma\Desktop\PI etapa 5 MVC\bin\Debug\netcoreapp3.1\.eslintrc.json
+C:\Users\silma\Desktop\PI etapa 5 MVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\silma\Desktop\PI etapa 5 MVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\silma\Desktop\PI etapa 5 MVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\silma\Desktop\PI etapa 5 MVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\silma\Desktop\PI etapa 5 MVC\bin\Debug\netcoreapp3.1\Serilog.dll
+C:\Users\silma\Desktop\PI etapa 5 MVC\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.dll
+C:\Users\silma\Desktop\PI etapa 5 MVC\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.File.dll
+C:\Users\silma\Desktop\PI etapa 5 MVC\bin\Debug\netcoreapp3.1\Serilog.Formatting.Compact.dll
+C:\Users\silma\Desktop\PI etapa 5 MVC\bin\Debug\netcoreapp3.1\Serilog.Sinks.Async.dll
+C:\Users\silma\Desktop\PI etapa 5 MVC\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+C:\Users\silma\Desktop\PI etapa 5 MVC\bin\Debug\netcoreapp3.1\Serilog.Sinks.RollingFile.dll

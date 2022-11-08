@@ -1,0 +1,51 @@
+@model Fale
+<link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" href="~/css/site.css" />
+@{
+    ViewData["Title"] = "Fale conosco";
+}
+<div class="formulárioFale_conosco">
+    <div class="row justify-content-md-center">
+        <div class="jumbotron col-8">
+
+
+            <div class="Fale_conosco">
+                <h4>Fale conosco</h4>
+
+                <br>
+                <form method="post" asp-action="Fale">
+
+                    <p>
+                        <label asp-for="Nome">Nome:</label>
+                        <input asp-for="Nome" id="txtNome" onblur="ValidarNome()" required>
+                    </p>
+
+                    <p>
+                        <label asp-for="Email">Email:</label>
+                        <input asp-for="Email" type="email" name="Email" id="txtEmail" placeholder="Email" onblur="ValidarEmail()" required>
+                    </p>
+
+                    <p>
+                        <label asp-for="Mensagem">Mensagem:</label>
+                        <br>
+                        <textarea name="Mensagem" rows="10" cols="60" wrap="virtual"  id="campo_mensagem" required></textarea>
+                    </p>
+                    <br>
+
+                    <p>Ou</p>
+                    <p>Você pode mandar o seu desenho por aqui:</p>
+                    <p>
+                        <input type="file" accept="image/jpeg,image/jpg,image/png">
+                    </p>
+
+                    <p>
+                        <input type="submit" class="btn btn-primary btn-lg" value="Enviar" />
+                    </p>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+<script src="~/js/site.js" asp-append-version="true"></script>
+@* <--!Não vai dar tempo de colocar o entity framework. Então se der problema coloque os dados do cadastro no banco de dados manualmente.!> *@
+@* <--!Também não consigo fazer o script funcionar (Não sei se é só no meu navegador). O required cuida das validações de campo!> *@
